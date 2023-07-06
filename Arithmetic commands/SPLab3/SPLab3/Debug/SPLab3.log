@@ -1,0 +1,3 @@
+﻿  Assembling SPLab3.asm...
+SPLab3.asm(4): fatal error A1000: cannot open file : \masm32\include\windows.inc
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\SPLab3.obj" /W3 /errorReport:prompt  /TaSPLab3.asm" exited with code 1.
